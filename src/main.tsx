@@ -67,7 +67,7 @@ const App = () => {
           <color attach="background" args={["#16161b"]} />
           <ambientLight />
           <Controllers />
-          <Environment preset="city" />
+          {/* <Environment preset="city" /> */}
         </XR>
       </Canvas>
     </>
