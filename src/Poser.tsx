@@ -7,7 +7,7 @@ import {
 } from "@react-three/drei";
 import { useEffect, useState } from "react";
 import { useWindowSize } from "@react-hook/window-size";
-import { PoserHud } from "./PoserHud";
+// import { PoserHud } from "./PoserHud";
 import { Interactive, useXR } from "@react-three/xr";
 import {
   Bloom,
